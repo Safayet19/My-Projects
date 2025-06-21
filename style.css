@@ -1,0 +1,15 @@
+body {
+  background: #f8f9fa;
+}
+.card-img-top {
+  object-fit: cover;
+  height: 180px;
+}
+#drinks-container .card {
+  min-height: 100%;
+}
+#group-container {
+  position: sticky;
+  top: 20px;
+  width: 300px;
+}
